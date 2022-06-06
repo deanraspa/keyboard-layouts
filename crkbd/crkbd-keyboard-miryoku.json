@@ -1,0 +1,379 @@
+[
+  {
+    "name": "Crkbd Keyboard Miryoku",
+    "author": "Dean Raspa",
+    "notes": "This layout borrows heavily from the [Miryoku](https://github.com/manna-harbour/miryoku) layout, but has been slightly altered to make it my own.  Mainly around the thumb buttons and altering and/or removing a few layer mappings. ",
+    "background": {
+      "name": "Aluminium brushed",
+      "style": "background-image: url('/bg/metal/aluminum_texture1642.jpg');"
+    },
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Tea",
+    "plate": true
+  },
+  [
+    {
+      "x": 3,
+      "c": "#888888",
+      "t": "#000000\n#ff0000\n#00ff00\n#0000FF",
+      "f": 4,
+      "f2": 2
+    },
+    "F\nF8\n*\n8",
+    {
+      "x": 6.75,
+      "t": "#000000"
+    },
+    "U"
+  ],
+  [
+    {
+      "y": -0.87,
+      "x": 2,
+      "t": "#000000\n#ff0000\n#00FF00\n#0000FF",
+      "f2": 2
+    },
+    "W\nF7\n&\n7",
+    {
+      "x": 1,
+      "t": "#000000\n#FF0000\n#00ff00\n#0000ff",
+      "f2": 2
+    },
+    "P\nF9\n(\n9",
+    {
+      "x": 4.75,
+      "t": "#000000"
+    },
+    "L",
+    {
+      "x": 1
+    },
+    "Y"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 5,
+      "t": "#000000\n#FF0000\n#00FF00",
+      "f2": 1
+    },
+    "B\nPrtScrn\n(",
+    {
+      "x": 2.75,
+      "t": "#000000\n\n#00ff00",
+      "f": 4
+    },
+    "J\n\n)"
+  ],
+  [
+    {
+      "y": -0.87,
+      "t": "#000000",
+      "a": 7
+    },
+    "ESC",
+    {
+      "t": "#000000\n#ff0000\n#00ff00\n#0000ff",
+      "a": 4,
+      "f2": 2
+    },
+    "Q\nF12",
+    {
+      "x": 10.75,
+      "t": "#000000",
+      "fa": [
+        6
+      ]
+    },
+    "&nbsp;' \"",
+    {
+      "a": 7,
+      "f": 4
+    },
+    "<i class='mss mss-Unicode-BackSpace-DeleteLeft-Big-2'/>"
+  ],
+  [
+    {
+      "y": -0.3799999999999999,
+      "x": 3,
+      "t": "#000000\n#ff0000\n#00ff00\n#0000FF",
+      "a": 4,
+      "f2": 2
+    },
+    "S\nF5\n%\n5\nShift",
+    {
+      "x": 6.75,
+      "t": "#000000\n#FF00FF\n\n#00FFFF",
+      "f": 4
+    },
+    "E\n<i class='kb kb-Multimedia-Volume-Down-1'></i>\n\n<i class='kb kb-Multimedia-Down'></i>\nShift"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 2,
+      "t": "#000000\n#ff0000\n#00FF00\n#0000FF",
+      "f2": 2
+    },
+    "R\nF4\n$\n4\nL-Alt",
+    {
+      "x": 1,
+      "t": "#00000\n#ff0000\n#00FF00\n#0000FF",
+      "f2": 2,
+      "n": true
+    },
+    "T\nF6\n^\n6\nCtrl",
+    {
+      "x": 4.75,
+      "t": "#000000\n#FF00FF\n\n#00FFFF",
+      "f": 4,
+      "n": true
+    },
+    "N\n<i class='kb kb-Multimedia-Rewind-Start'></i>\n\n<i class='kb kb-Multimedia-Back'></i>\nCtrl",
+    {
+      "x": 1,
+      "t": "#000000\n#FF00FF\n\n#00ffff",
+      "f": 4
+    },
+    "I\n<i class='kb kb-Multimedia-Volume-Up-1'></i>\n\n<i class='kb kb-Multimedia-Up'></i>\nL-Alt"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 5,
+      "t": "#000000\n#ff0000\n#00ff00\n#0000FF",
+      "f2": 1
+    },
+    "G\nScroll<br/>Lock\n{\n=",
+    {
+      "x": 2.75,
+      "t": "#000000\n\n#00ff00",
+      "f": 4
+    },
+    "M\n\n}"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "t": "#000000",
+      "a": 7,
+      "fa": [
+        8
+      ]
+    },
+    "<i class='kb kb-Tab-1'></i>",
+    {
+      "t": "#000000\n#ff0000\n#00FF00\n#0000FF",
+      "a": 4,
+      "fa": [
+        0,
+        2,
+        6,
+        6
+      ]
+    },
+    "A\nF11\n:\n;\nSuper",
+    {
+      "x": 10.75,
+      "t": "#000000\n#FF00FF\n\n#00ffff",
+      "f": 4
+    },
+    "O\n<i class='kb kb-Multimedia-FastForward-End'></i>\n\n<i class='kb kb-Multimedia-Play'></i>\nSuper",
+    {
+      "t": "#000000",
+      "a": 7,
+      "fa": [
+        6
+      ]
+    },
+    "&nbsp;; :"
+  ],
+  [
+    {
+      "y": -0.3799999999999999,
+      "x": 3,
+      "t": "#000000\n#ff0000\n#00ff00\n#0000FF",
+      "a": 4,
+      "f2": 2
+    },
+    "C\nF2\n@\n2",
+    {
+      "x": 6.75,
+      "t": "#000000\n\n\n#00ffff",
+      "fa": [
+        6
+      ]
+    },
+    "&nbsp;, <\n\n\n<i class='kb kb-Unicode-Page-Down-3'></i>"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 2,
+      "t": "#000000\n#FF0000\n#00FF00\n#0000FF",
+      "f2": 2
+    },
+    "X\nF1\n!\n1",
+    {
+      "x": 1,
+      "t": "#000000\n#ff0000\n#00FF00\n#0000FF",
+      "f2": 2
+    },
+    "D\nF3\n#\n3",
+    {
+      "x": 4.75,
+      "t": "#000000\n\n\n#00ffff",
+      "f": 4
+    },
+    "H\n\n\n<i class='kb kb-Line-Start'></i>",
+    {
+      "x": 1,
+      "fa": [
+        6
+      ]
+    },
+    "&nbsp;. >\n\n\n<i class='kb kb-Unicode-Page-Up-3'></i>"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 5,
+      "t": "#000000\n#FF0000\n#00ff00\n#0000FF",
+      "f2": 1
+    },
+    "V\nPaue<br/>Break\n[\n\\ |",
+    {
+      "x": 2.75,
+      "t": "#000000\n\n#00ff00",
+      "f": 4
+    },
+    "K\n\n]"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "t": "#000000",
+      "a": 7
+    },
+    "Shift",
+    {
+      "t": "#000000\n#ff0000\n#00FF00\n#0000FF",
+      "a": 4,
+      "fa": [
+        0,
+        2,
+        6,
+        6
+      ]
+    },
+    "Z\nF10\n~\n`",
+    {
+      "x": 10.75,
+      "t": "#000000\n\n\n#00ffff",
+      "fa": [
+        6
+      ]
+    },
+    "&nbsp;/ ?\n\n\n<i class='kb kb-Line-End'></i>",
+    {
+      "t": "#000000",
+      "a": 7,
+      "f": 4
+    },
+    "Ctrl"
+  ],
+  [
+    {
+      "y": -0.21999999999999975,
+      "x": 3.5,
+      "t": "#000000\n\n#00FF00\n#0000FF\n#FF00FF",
+      "a": 4
+    },
+    "\n\n-\n0\nMedia\n\n\n\n\nEsc",
+    {
+      "x": 5.75,
+      "t": "#000000\n#FF00FF\n\n\n#FF0000",
+      "fa": [
+        6,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6
+      ]
+    },
+    "\n<i class='kb kb-Multimedia-Mute-2'></i>\n\n\nFun\n\n\n\n\n<i class='mss mss-Unicode-DeleteRight-Big-2'></i>"
+  ],
+  [
+    {
+      "r": 15,
+      "rx": 4.5,
+      "ry": 4.16,
+      "y": -1,
+      "t": "#000000\n\n#00FF00\n#0000FF\n#00FFFF"
+    },
+    "\n\n+\n.\nNav\n\n\n\n\n<i class='kb kb-Tab-1'></i>"
+  ],
+  [
+    {
+      "r": 30,
+      "ry": 4.26,
+      "y": -1.8699999999999997,
+      "x": 0.9100000000000001,
+      "t": "#000000\n#ff0000\n#00ff00\n#0000FF",
+      "f": 4,
+      "h": 1.5
+    },
+    "\nSpc\n_\n-\n\n\n\n\n\nSpc"
+  ],
+  [
+    {
+      "r": -30,
+      "rx": 10.25,
+      "y": -1.8699999999999997,
+      "x": -1.9100000000000001,
+      "t": "#000000\n#FF00FF\n\n#00FFFF\n#0000FF",
+      "fa": [
+        6,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6
+      ],
+      "h": 1.5
+    },
+    "\n<i class='kb kb-Multimedia-Play-Pause'></i>\n\n<i class='kb kb-Return-2'></i>\nNum\n\n\n\n\n<i class='kb kb-Return-2'></i>"
+  ],
+  [
+    {
+      "r": -15,
+      "ry": 4.16,
+      "y": -1,
+      "x": -1,
+      "t": "#000000\n#FF00FF\n\n\n#00FF00",
+      "fa": [
+        6,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6
+      ]
+    },
+    "\n<i class='kb kb-Multimedia-Stop'></i>\n\n\nSym\n\n\n\n\n<i class='mss mss-Unicode-BackSpace-DeleteLeft-Big-2'/>"
+  ]
+]
